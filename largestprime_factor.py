@@ -1,4 +1,4 @@
-number = 13195
+number = 13197
 factor = number // 2
 while factor > 1:
     if number % factor == 0:
